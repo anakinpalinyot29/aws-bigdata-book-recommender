@@ -115,15 +115,17 @@ Advantages:
 ---
 
 ## 📊 Tableau Visualization  
-We used **Tableau** for visualizing results and data insights to support business intelligence (BI).
+We used Tableau to visualize and explore data insights, supporting business intelligence (BI) analysis for the recommendation system.
 
-- User Review Trends
-- Top Rated Books
-- Genre Popularity
-- Model Evaluation Metrics
+Our visualizations include:
 
+📚 Top 10 Books with the highest average review scores
 ![Tableau Dashboard 1](images/tab1.png)
+
+✍️ Top 10 Authors based on average review scores
 ![Tableau Dashboard 2](images/tab2.png)
+
+📈 Popularity of Book Categories, showing how frequently each category appears in the dataset
 ![Tableau Dashboard 3](images/tab3.png)
 
 ---
@@ -138,8 +140,7 @@ We used **Tableau** for visualizing results and data insights to support busines
 5. **Generate recommendations**
 6. **Visualize** results in Tableau
 
-*(ใส่รูปภาพรวมของ architecture/workflow diagram หรือ GIF flow)*  
-`![Pipeline Diagram](path/to/pipeline_diagram.png)`
+![Pipeline Diagram](images/pipeline_diagram.png)
 
 ---
 
