@@ -131,3 +131,44 @@ We used **Tableau** for visualizing results and data insights to support busines
 - Model Evaluation Metrics
 
 *(ใส่ 4 รูป Tableau dashboard ที่ต่างกัน)*  
+
+
+---
+
+## 🧩 Workflow Summary  
+> A complete end-to-end pipeline using AWS Big Data Ecosystem:
+
+1. **Upload raw data** to S3
+2. **Preprocess** with AWS Glue
+3. **Trigger Lambda** to start ETL + training pipeline
+4. **Train ML models** using SageMaker (Collaborative + Content-based)
+5. **Generate recommendations**
+6. **Visualize** results in Tableau
+
+*(ใส่รูปภาพรวมของ architecture/workflow diagram หรือ GIF flow)*  
+`![Pipeline Diagram](path/to/pipeline_diagram.png)`
+
+---
+
+## ✅ Key Features
+- Real-time, scalable recommendation pipeline
+- Uses hybrid recommender strategy
+- Fully serverless infrastructure
+- Clean, modular code structure
+
+---
+
+## 📎 Credits
+Team G12 – Big Data for Business 2025  
+Instructor: [Your Instructor Name]  
+Dataset: Kaggle Amazon Book Reviews
+
+---
+
+## 📬 Contact  
+For any questions or collaborations:  
+📧 your.email@example.com
+
+---
+
+
