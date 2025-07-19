@@ -61,9 +61,6 @@ Scripts:
 - `sagemaker_train.py`
 - `lambda_function.py`
 
-*(ใส่รูป Lambda function + code snippets หรือ GIF ทำงาน)*  
-`![Lambda Screenshot](path/to/lambda.png)`
-
 ---
 
 ### 🔄 AWS Glue  
@@ -117,9 +114,6 @@ Advantages:
 - More **personalized**
 - Better **coverage**
 - Reduced **cold-start problems**
-
-*(ใส่ schema หรือภาพอธิบาย Hybrid Approach)*  
-`![Hybrid Model](path/to/hybrid_model.png)`
 
 ---
 
