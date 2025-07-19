@@ -34,8 +34,9 @@ Building a book recommendation system at scale presents several core challenges:
 - **Type**: JSON format with user reviews, ratings, book metadata
 
 ### 📸 Sample Data Preview  
-*(ใส่รูปตัวอย่างของ dataset)*  
-`![Dataset Sample](path/to/dataset_sample.png)`
+![Dataset Sample](images/data_scheme.png)
+![Dataset Sample1](images/data_ex1.png)
+![Dataset Sample2](images/data_ex2.png)
 
 ---
 
