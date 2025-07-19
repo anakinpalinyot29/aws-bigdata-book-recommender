@@ -46,8 +46,7 @@ Building a book recommendation system at scale presents several core challenges:
 Bucket: `rayong-book-bucket-g12`  
 Used for storing raw datasets and intermediate results.
 
-*(ใส่รูปหน้าจอ S3 Bucket)*  
-`![S3 Screenshot](path/to/s3.png)`
+![S3 Screenshot](images/aws-s3.png)
 
 ---
 
@@ -67,8 +66,8 @@ Scripts:
 Job: `book-recommendation-etl`  
 Performs data cleaning, feature extraction, and schema transformation.
 
-*(ใส่รูปหน้าจอ Glue job + workflow)*  
-`![Glue Screenshot](path/to/glue.png)`
+![Glue Screenshot1](images/aws-glue1.png)
+![Glue Screenshot2](images/aws-glue2.png)
 
 ---
 
@@ -86,8 +85,7 @@ Two types:
 
 **Matrix-based approach** using user-item interaction.
 
-*(ใส่รูปหรือ schema อธิบาย Collaborative Filtering)*  
-`![Collaborative Filtering](path/to/cf_diagram.png)`
+![Collaborative Filtering](images/colla.png)
 
 ---
 
@@ -103,8 +101,7 @@ Steps:
 - Create item profiles using features
 - Match user preferences to content vectors
 
-*(ใส่รูปการทำ content-based filtering หรือ feature table)*  
-`![Content-Based](path/to/cb_features.png)`
+![Content-Based](images/content.png)
 
 ---
 
@@ -125,8 +122,9 @@ We used **Tableau** for visualizing results and data insights to support busines
 - Genre Popularity
 - Model Evaluation Metrics
 
-*(ใส่ 4 รูป Tableau dashboard ที่ต่างกัน)*  
-
+![Tableau Dashboard 1](images/tab1.png)
+![Tableau Dashboard 2](images/tab2.png)
+![Tableau Dashboard 3](images/tab3.png)
 
 ---
 
@@ -151,18 +149,20 @@ We used **Tableau** for visualizing results and data insights to support busines
 - Fully serverless infrastructure
 - Clean, modular code structure
 
+![Recommender](images/recommender.png)
+
 ---
 
 ## 📎 Credits
-Team G12 – Big Data for Business 2025  
-Instructor: [Your Instructor Name]  
+Team G12 – Big Data Analytics
+Instructor: DR. APICHON WITAYANGKURN 
 Dataset: Kaggle Amazon Book Reviews
 
 ---
 
 ## 📬 Contact  
 For any questions or collaborations:  
-📧 your.email@example.com
+📧 anakinpalinyot@gmail.com
 
 ---
 
